@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-📚 I'm currently learning Go and Infrastructure tools<br>
+📚 I use Python and Go for infrastructure and C++ for low-level programming. My backend stack is either Java or Python and Frontend I stick with React<br>
 🎯 Goals: build a containerization tool to host locally<br>
 🎲 I like building projects here and there and contributing to NCSU IEEE club projects
 </p>
