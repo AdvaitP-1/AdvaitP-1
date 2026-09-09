@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im backend software engineer at NC State. Take a look at my portfolio to know more about me and connect with me on Linked in.<br><br>
+<p align="left">I'm a Computer Engineer at NC State. Take a look at my portfolio to know more about me and connect with me on Linked in.<br><br>
 <a href="https://www.advaitpandey.com">https://www.advaitpandey.com</a><br><br>
 <a href="https://www.linkedin.com/in/advp/">https://www.linkedin.com/in/advp/</a>
 </p>
@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-📚 I use Python and Go for infrastructure and C++ for low-level programming. My backend stack is either Java or Python and Frontend I stick with React<br>
+📚 I'm an infrastructure engineer working with containers and clusters in AI, Software, and Hardware systems <br>
 🎯 Goals: build a containerization tool to host locally<br>
 🎲 I like building projects here and there and contributing to NCSU IEEE club projects
 </p>
